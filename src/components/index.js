@@ -1,0 +1,5 @@
+export { default as Navbar } from './navbar/navbar'
+export { default as NavbarLinkItem } from './nav-list-item/nav-list-item'
+export { default as SocialIcons } from './social-icons/social-icons'
+export { default as Home } from './home/home'
+export { default as Footer } from './footer/footer'
